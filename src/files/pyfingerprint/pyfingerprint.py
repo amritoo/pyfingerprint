@@ -314,7 +314,7 @@ class PyFingerprint(object):
 
             if ( len(receivedFragment) != 0 ):
                 receivedFragment = self.__stringToByte(receivedFragment)
-                ## print 'Received packet fragment = ' + hex(receivedFragment)
+                print ('Received packet fragment = ' + hex(receivedFragment))
             else:
                 continue
 

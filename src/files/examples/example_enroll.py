@@ -9,9 +9,12 @@ All rights reserved.
 """
 
 import time
-from pyfingerprint.pyfingerprint import PyFingerprint
-from pyfingerprint.pyfingerprint import FINGERPRINT_CHARBUFFER1
-from pyfingerprint.pyfingerprint import FINGERPRINT_CHARBUFFER2
+# from pyfingerprint.pyfingerprint import PyFingerprint
+from src.files.pyfingerprint.pyfingerprint import PyFingerprint
+# from pyfingerprint.pyfingerprint import FINGERPRINT_CHARBUFFER1
+from src.files.pyfingerprint.pyfingerprint import FINGERPRINT_CHARBUFFER1
+# from pyfingerprint.pyfingerprint import FINGERPRINT_CHARBUFFER2
+from src.files.pyfingerprint.pyfingerprint import FINGERPRINT_CHARBUFFER2
 
 
 ## Enrolls new finger

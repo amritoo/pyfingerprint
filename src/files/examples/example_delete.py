@@ -8,7 +8,8 @@ All rights reserved.
 
 """
 
-from pyfingerprint.pyfingerprint import PyFingerprint
+# from pyfingerprint.pyfingerprint import PyFingerprint
+from src.files.pyfingerprint.pyfingerprint import PyFingerprint
 
 
 ## Deletes a finger from sensor

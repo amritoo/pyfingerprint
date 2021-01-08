@@ -8,7 +8,8 @@ All rights reserved.
 
 """
 
-from pyfingerprint.pyfingerprint import PyFingerprint
+# from pyfingerprint.pyfingerprint import PyFingerprint
+from src.files.pyfingerprint.pyfingerprint import PyFingerprint
 
 
 ## Generates a 32-bit random number

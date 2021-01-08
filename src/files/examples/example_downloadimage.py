@@ -9,7 +9,8 @@ All rights reserved.
 """
 
 import tempfile
-from pyfingerprint.pyfingerprint import PyFingerprint
+# from pyfingerprint.pyfingerprint import PyFingerprint
+from src.files.pyfingerprint.pyfingerprint import PyFingerprint
 
 
 ## Reads image and download it
