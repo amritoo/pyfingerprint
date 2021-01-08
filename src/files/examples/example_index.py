@@ -9,7 +9,7 @@ All rights reserved.
 """
 
 # from pyfingerprint.pyfingerprint import PyFingerprint
-from src.files.pyfingerprint.pyfingerprint import PyFingerprint
+from ..pyfingerprint.pyfingerprint import PyFingerprint
 
 
 ## Shows the template index table
